@@ -28,7 +28,7 @@ services:
   #   ports:
   #     - "5432:5432"
 
-  volumes:
-    backend:
-    certs:
-    certs_data:
+volumes:
+  backend:
+  certs:
+  certs_data:
